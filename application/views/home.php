@@ -116,7 +116,7 @@
             <div class="col-sm-4 wow fadeInDown text-center">
                 <img class="rotate" src="<?= base_url(); ?>/assets/img/icon/tweet.svg" alt="Generic placeholder image">
                 <h3>සරල ඉගෙනුම්  රටාව </h3>
-                <p class="lead">Epsum factorial non deposit quid pro quo hic escorol. Olypian quarrels et gorilla congolium sic ad nauseum. </p>
+                <p class="lead">සෑම විෂය කරුණක්ම ක්‍රමවත්ම ඉතාමත් සරළව ඕනෑම දරුවෙකුට අවබෝධ වන ලෙස විද්‍යාත්මක ක්‍රම උපයෝගී කරගනිමින් කරණුලබන අති සාර්ථක ඉගැන්වීම  </p>
 
                 <!-- <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> -->
             </div><!-- /.col-lg-4 -->
@@ -200,19 +200,19 @@
         <div class="row">
             <div class="col-sm-6 wow fadeInLeftBig">
                 <div id="owl-demo-1" class="owl-carousel">
-                    <a href="<?= base_url(); ?>/assets/img/1.jpg" class="image-link">
+                    <a href="<?= base_url(); ?>/assets/img/2.jpg" class="image-link">
                         <div class="item">
-                            <img  class="img-responsive img-rounded" src="<?= base_url(); ?>/assets/img/1.jpg" alt="">
+                            <img  class="img-responsive img-rounded" src="<?= base_url(); ?>/assets/img/2.jpg" alt="">
                         </div>
                     </a>
-                    <a href="<?= base_url(); ?>/assets/img/1.jpg" class="image-link">
+                    <a href="<?= base_url(); ?>/assets/img/4.jpg" class="image-link">
                         <div class="item">
-                            <img  class="img-responsive img-rounded" src="<?= base_url(); ?>/assets/img/1.jpg" alt="">
+                            <img  class="img-responsive img-rounded" src="<?= base_url(); ?>/assets/img/4.jpg" alt="">
                         </div>
                     </a>
-                    <a href="<?= base_url(); ?>/assets/img/1.jpg" class="image-link">
+                    <a href="<?= base_url(); ?>/assets/img/4.jpg" class="image-link">
                         <div class="item">
-                            <img  class="img-responsive img-rounded" src="<?= base_url(); ?>/assets/img/1.jpg" alt="">
+                            <img  class="img-responsive img-rounded" src="<?= base_url(); ?>/assets/img/4.jpg" alt="">
                         </div>
                     </a>
                 </div>
