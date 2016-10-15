@@ -186,7 +186,7 @@
                     patria esse cariorem. Quae qui non vident, nihilamane umquam magnum ac cognitione.
                 </p>
 
-                <p><a class="btn btn-embossed btn-primary" href="#" role="button">Put Your Comment</a>
+                <p><a class="btn btn-embossed btn-primary" href="<?= base_url(); ?>controllers/Blackboard" role="button">Put Your Comment</a>
                     <a class="btn btn-embossed btn-info" href="#" role="button">Visit Website</a></p>
             </div>
         </div>
