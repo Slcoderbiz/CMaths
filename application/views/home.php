@@ -200,19 +200,19 @@
         <div class="row">
             <div class="col-sm-6 wow fadeInLeftBig">
                 <div id="owl-demo-1" class="owl-carousel">
+                    <a href="<?= base_url(); ?>/assets/img/1.jpg" class="image-link">
+                        <div class="item">
+                            <img  class="img-responsive img-rounded" src="<?= base_url(); ?>/assets/img/1.jpg" alt="">
+                        </div>
+                    </a>
                     <a href="<?= base_url(); ?>/assets/img/2.jpg" class="image-link">
                         <div class="item">
                             <img  class="img-responsive img-rounded" src="<?= base_url(); ?>/assets/img/2.jpg" alt="">
                         </div>
                     </a>
-                    <a href="<?= base_url(); ?>/assets/img/4.jpg" class="image-link">
+                    <a href="<?= base_url(); ?>/assets/img/3.jpg" class="image-link">
                         <div class="item">
-                            <img  class="img-responsive img-rounded" src="<?= base_url(); ?>/assets/img/4.jpg" alt="">
-                        </div>
-                    </a>
-                    <a href="<?= base_url(); ?>/assets/img/4.jpg" class="image-link">
-                        <div class="item">
-                            <img  class="img-responsive img-rounded" src="<?= base_url(); ?>/assets/img/4.jpg" alt="">
+                            <img  class="img-responsive img-rounded" src="<?= base_url(); ?>/assets/img/3.jpg" alt="">
                         </div>
                     </a>
                 </div>
