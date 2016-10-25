@@ -22,4 +22,34 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('home');
 	}
+
+
+    public function contactmail()
+    {
+        $subjet = $this->input->post('InputName');
+        $mail = $this->input->post('InputEmail');
+        $massage = $this->input->post('InputMessage');
+        //var_dump($massage);die;
+
+        $this->load->library('email');
+        $config['protocol'] = $this->config->item('protocol');
+        $config['smtp_host'] = $this->config->item('smtp_host');
+        $config['smtp_port'] = $this->config->item('smtp_port');
+        $config['smtp_timeout'] = $this->config->item('smtp_timeout');
+        $config['smtp_user'] = $this->config->item('smtp_user');
+        $config['smtp_pass'] = $this->config->item('smtp_pass');
+        $config['charset'] = 'utf-8';
+        $config['newline'] = "\r\n";
+        $config['wordwrap'] = TRUE;
+        $config['mailtype'] = 'html';
+        $this->email->initialize($config);
+
+        $this->email->from('your@example.com', 'Your Name');
+        $this->email->to($mail);
+
+        $this->email->subject($subjet);
+        $this->email->message($massage);
+
+        $this->email->send();
+    }
 }
