@@ -200,19 +200,19 @@
         <div class="row">
             <div class="col-sm-6 wow fadeInLeftBig">
                 <div id="owl-demo-1" class="owl-carousel">
-                    <a href="<?= base_url(); ?>/assets/img/1.jpg" class="image-link">
-                        <div class="item">
-                            <img  class="img-responsive img-rounded" src="<?= base_url(); ?>/assets/img/1.jpg" alt="">
-                        </div>
-                    </a>
-                    <a href="<?= base_url(); ?>/assets/img/2.jpg" class="image-link">
-                        <div class="item">
-                            <img  class="img-responsive img-rounded" src="<?= base_url(); ?>/assets/img/2.jpg" alt="">
-                        </div>
-                    </a>
+<!--                    <a href="--><?//= base_url(); ?><!--/assets/img/1.jpg" class="image-link">-->
+<!--                        <div class="item">-->
+<!--                            <img  class="img-responsive " src="--><?//= base_url(); ?><!--/assets/img/1.jpg" alt="">-->
+<!--                        </div>-->
+<!--                    </a>-->
+<!--                    <a href="--><?//= base_url(); ?><!--/assets/img/2.jpg" class="image-link">-->
+<!--                        <div class="item">-->
+<!--                            <img  class="img-responsive " src="--><?//= base_url(); ?><!--/assets/img/2.jpg" alt="">-->
+<!--                        </div>-->
+<!--                    </a>-->
                     <a href="<?= base_url(); ?>/assets/img/3.jpg" class="image-link">
                         <div class="item">
-                            <img  class="img-responsive img-rounded" src="<?= base_url(); ?>/assets/img/3.jpg" alt="">
+                            <img  class="img-responsive " src="<?= base_url(); ?>/assets/img/3.jpg" alt="">
                         </div>
                     </a>
                 </div>
@@ -220,12 +220,11 @@
 
             <div class="col-sm-6 wow fadeInRightBig"  data-animation-delay="200">
                 <h3 class="section-heading">About Us</h3>
-                <div class="sub-title lead3">උසස්පෙළ විභාගය පදනම්  කරමින්  සිදුකරනු  ලබන <br> අපගේ  නවතම පංති මාලාව නුගේගොඩ සැසිප්  ආයතනයෙන් ඇරඹේ</div>
+                <div class="sub-title lead3">සහජ දක්ෂයින් Island Rank වලට ගෙන යන සාමාන්‍ය දරුවන් විශිෂ්ටයන් කරවන දුර්වල දරුවන් දක්ෂයන් කරවන විකල්ප නොමැති ශ්‍රී ලංකාවේ විශිෂ්ටතම සංයුක්ත ගණිතය ඇදුරුතුමා</div>
                 <p class="lead">
-                    In his igitur partibus duabus nihil erat, quod Zeno commuta rest gestiret.
-                    Sed virtutem ipsam inchoavit, nihil ampliusuma. Scien tiam pollicentur,
-                    uam non erat mirum sapientiae lorem cupido
-                    patria esse cariorem. Quae qui non vident, nihilamane umquam magnum ac cognitione.
+                    කොළඹ ආනන්ද විද්‍යාලයෙන් අද්‍යාපනය හදාරා උසස්පෙළ විශිෂ්ට ලෙස සමත්ව , කොළඹ විශ්ව විද්‍යාලයේ පරිගණක විද්‍යා අංශයට ඇතුලත්ව, ගණිතය,සංඛ්‍යානය පරිගණක විද්‍යාව විෂයන් සහිත විද්‍යාවේදී උපාදිය ගෞරව පංති සාමාර්ථ  සහිතව අති විශිෂ්ට ලෙස සමත් විය.
+                    එම ව්ශිෂ්ට ප්‍රතිපල තුල කථිකාචාර්යවරයකු ලෙස විශ්ව විද්‍යාල ආචාර්ය මණ්ඩලයට එකතුවන මොහු කලක් එහි සේවය කර පසුව පරිගණක මෘදුකාංග ඉංජිනේරුවෙකු ලෙස කටයුතු අරඹ කලත් ගණිතය විෂය සඳහා වූ අසීමිත කැමැත්ත නිසාම පසුව සංයුක්ත ගණිත ගුරුවරයෙකු පෞද්ගලික පංති ක්ෂේත්‍රයට ප්‍රවිෂ්ට වන්නේ අති දක්ෂ ගුරුවරයෙකු ලෙසය.
+
                 </p>
 
                 <p>
