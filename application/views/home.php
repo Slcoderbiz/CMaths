@@ -561,7 +561,7 @@
                 <p class="lead" style="margin-top:0">ඔබගේ අදහස් අපට කියන්න</p>
             </div>
 
-            <form role="form" action="" method="post" >
+            <form role="form" action="<?= base_url(); ?>Welcome/contactmail" method="post" >
                 <div class="col-md-6">
                     <div class="form-group">
                         <label for="InputName">Your Name</label>
