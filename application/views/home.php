@@ -54,7 +54,7 @@
         <h1 class="h1_home wow fadeIn" data-wow-delay="0.4s">combinedmaths.lk</h1>
         <h3 class="h3_home wow fadeIn" data-wow-delay="0.6s">නිර්මාණශීලි සංයුක්ත ගණිත පංතිය</h3>
         <ul class="list-inline intro-social-buttons">
-            <li><a href="https://twitter.com/galantiandrea" class="btn  btn-lg mybutton_cyano wow fadeIn" data-wow-delay="0.8s"><span class="network-name">Facebook</span></a>
+            <li><a href="#" class="btn  btn-lg mybutton_cyano wow fadeIn" data-wow-delay="0.8s"><span class="network-name">Facebook</span></a>
             </li>
             <li id="download" ><a href="#downloadlink" class="btn  btn-lg mybutton_standard wow swing wow fadeIn" data-wow-delay="1.2s"><span class="network-name">Notice Board</span></a>
             </li>
