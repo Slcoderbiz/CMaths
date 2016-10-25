@@ -653,9 +653,9 @@
         <div class="row">
             <div class="col-md-7">
                 <h3 class="footer-title">Follow Me!</h3>
-                <p>Vuoi ricevere news su altri template?<br/>
-                    Visita Andrea Galanti.it e vedrai tutte le news riguardanti nuovi fgdfgd!<br/>
-                    Go to: <a  href="" target="_blank">dsfsdfsdf</a>
+                <p>සහජ දක්ෂයින් Island Rank වලට ගෙන යන සාමාන්‍ය දරුවන් විශිෂ්ටයන් කරවන දුර්වල දරුවන් දක්ෂයන් කරවන<br/>
+                     විකල්ප නොමැති ශ්‍රී ලංකාවේ විශිෂ්ටතම සංයුක්ත ගණිතය පංතිය<br/>
+<!--                    Go to: <a  href="" target="_blank">dsfsdfsdf</a>-->
                 </p>
 
                 <!-- LICENSE -->
@@ -664,9 +664,8 @@
                 <a rel="" href=""
                    property="">Slcoder</a>
 
-                <BR>the <a rel="license"
-                >Creative
-                    Commons Attribution 3.0 License - NOT COMMERCIAL</a>.
+                <BR><a rel="license"
+                >Copyright © 2016 www.combinedmaths.lk</a>.
 
 
             </div> <!-- /col-xs-7 -->
